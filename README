@@ -1,0 +1,3 @@
+This is a simple infix expression evaluator which handles operator
+precedence correctly. The implementation is completely recursive: no mutable
+data structures are used.
